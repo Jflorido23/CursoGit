@@ -4,3 +4,8 @@ asdaasdasdas
 estos son cambios realizados por mi.
 
 Que son cambios realizados en una segunda ocasión
+
+
+Esta es una modificación que quiero que git note (tercera modificación).
+
+sdasdsadasd
