@@ -7,3 +7,5 @@ Esta es una modificación que hice desde Github de manera remota.
 asdsadasda
 
 Esta es una modificación en el repositorio local que quiero ver en el repositorio web.
+
+Esta modificación sólo corresponde a la rama "Nueva_rama".
