@@ -8,5 +8,9 @@ asdsadasda
 
 Esta es una modificación en el repositorio local que quiero ver en el repositorio web.
 
+<<<<<<< HEAD
 
 Esta es una modificación única de la rama máster.
+=======
+Esta modificación sólo corresponde a la rama "Nueva_rama".
+>>>>>>> Nueva_rama
